@@ -24,3 +24,5 @@ the SQL is in the employee_SQL folder employee-queries.sql below are the questio
 6. List each employee in the Sales department, including their employee number, last name, and first name (2 points)
 7. List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name (4 points)
 8. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name) (4 points)
+# Acknowledgements  
+instructor Dallin Whitaker for asssistance with indexes in Quick DBD, Stack overflow, GeeksforGeeks, web sites for coding syntax for pgAdmin SQL
