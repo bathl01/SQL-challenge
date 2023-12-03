@@ -5,7 +5,8 @@ A research project about people whom Pewlett Hackard (a fictional company) emplo
 # Objectives
 This Challenge is divided into three parts: data modeling, data engineering, and data analysis. Whuich include designing the tables using QuickDBD that will hold the CSV data, using pgAdmin to create the tables, import the CSVs into a SQL database, and answer a series of questions about the data.  
 # Data Modeling
-Used QuickDBD below is the final ERD created #
+Used QuickDBD below is the final ERD created 
+#
 ![image](https://github.com/bathl01/SQL-challenge/assets/145512041/b7c4597f-4e9b-4adc-af02-e6fed4cb5ea7)
 #
 full image copy of the schema and ERD from QuickDBD.
